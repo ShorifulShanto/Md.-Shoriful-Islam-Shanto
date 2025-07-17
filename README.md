@@ -1,9 +1,14 @@
-
-[![MasterHead](https://1.bp.blogspot.... )](https://rishavchanda.io)
+<!-- Header GIF -->
+<p align="center">
+  <img src="./4d1678e171347c4402c231dad0394f0f.gif" alt="Cool Header" width="800"/>
+</p>
 # 💫 About Me:
-Hi, I'm  Md. Shoriful Islam Shanto — a curious and creative CSE student passionate about technology, design, and meaningful projects.  <br>Currently exploring web development, automation, and how AI can make everyday tools smarter.<br><br>- 🎓 Studying Computer Science & Engineering (CSE)<br>- 👨‍💻 Learning Java, C, C++. <br>- 🎮 Love building and exploring creative things <br>- ✨ Always up for small creative challenges & learning something new<br><br>> I believe small ideas, doe right, can make a big impact.
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.c...">
 
+Hi, I'm  Md. Shoriful Islam Shanto — a curious and creative CSE student (3rd samistar).<br>Passionate about technology, design, and meaningful projects.<br>Currently exploring web development, automation, and how AI can make everyday tools smarter.<br><br>- 🎓 Studying Computer Science & Engineering (CSE)<br>- 👨‍💻 Learning Java, C, C++. <br>- 🎮 Love building and exploring creative things <br>- ✨ Always up for small creative challenges & learning something new<br><br>> I believe small ideas, doe right, can make a big impact.
+<!-- Coding Guy GIF on Right -->
+<p align="right">
+  <img src="./assets/coding.gif" alt="Coding Guy" width="200"/>
+</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
